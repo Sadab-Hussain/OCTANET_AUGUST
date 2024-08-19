@@ -52,7 +52,8 @@ Make sure you have [Git](https://git-scm.com/) installed on your machine.
 3. Open `index.html` in your browser to view the landing page.
 
 📧 Contact
-Feel free to reach out if you have any questions or suggestions!
+
+   Feel free to reach out if you have any questions or suggestions!
 
 Sadab Hussain 
 https://www.linkedin.com/in/sadab-hussain-012a60269/-
